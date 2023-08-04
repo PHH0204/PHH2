@@ -553,7 +553,7 @@ var option = {
     {
       type: 'line',
       smooth: true, // 圆滑的线
-      name: '高等教育入学率',
+      name: '高等教育毛入学率',
       data: yearData[0].data[1]
     },
     {
